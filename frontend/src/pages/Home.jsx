@@ -275,18 +275,6 @@ export default function Home() {
         </div>
       </motion.div>
 
-      {/* Footer */}
-      <div
-        style={{
-          textAlign: 'center',
-          padding: '24px',
-          borderTop: '1px solid var(--border-primary)',
-          fontSize: '0.85rem',
-          color: 'var(--text-tertiary)',
-        }}
-      >
-        Built with ❤️ using MERN Stack + AI — ESE Examination Project
-      </div>
     </div>
   );
 }

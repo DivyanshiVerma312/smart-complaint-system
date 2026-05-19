@@ -168,7 +168,7 @@ export default function Navbar() {
                   background: 'var(--bg-tertiary)',
                 }}
               >
-                👋 {user.name}
+                Hi, {user.name}
               </span>
               <button
                 id="logout-btn"
